@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "hot_reload": false,
@@ -33,6 +33,6 @@
   "use_linkai": false,
   "linkai_api_key": "",
   "linkai_app_code": "",
-  "proxy_server": "http://localhost:8080/mj",
-  "proxy_api_secret": ""
+  "proxy_server": "mpp.zeabur.app:8080/mj",
+  "proxy_api_secret": "1350375634"
 }
